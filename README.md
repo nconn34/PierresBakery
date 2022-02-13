@@ -1,4 +1,4 @@
-Pierre's Bakery
+**Pierre's Bakery**
 
 #### By **Nathan Conn**
 
